@@ -1,0 +1,8 @@
+print("S M S B O M B E R")
+input("number +880")
+print("limit:5,10")
+input("put limit")
+print("waite and see")
+print("sms sent-1")
+print("sms sent-2")
+print("sms sent-3")
